@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Hamstring",
+    "repetitions": "Hold for 30 seconds on each leg",
+    "instructions": "Sit on the floor with one leg extended straight. Bend the other leg so the sole of your foot rests against your inner thigh. Lean forward over the extended leg, reaching towards your toes.",
+    "advanced": "Flex your foot back towards your body to increase the stretch."
+  },
+  {
+    "name": "Quadriceps",
+    "repetitions": "Hold for 30 seconds on each leg",
+    "instructions": "Stand on one leg and pull your opposite foot towards your glutes, holding your ankle with your hand. Keep your knees together and push your hips slightly forward.",
+    "advanced": "Use a wall or chair for balance, allowing you to focus on pushing your hips further forward."
+  },
+  {
+    "name": "Calf",
+    "repetitions": "Hold for 30 seconds on each leg",
+    "instructions": "Stand facing a wall, place your hands against it, and step one foot back. Keep the back leg straight and press the heel into the ground while bending the front knee.",
+    "advanced": "Bend the back knee slightly to stretch the deeper calf muscles."
+  },
+  {
+    "name": "Hip Flexor",
+    "repetitions": "Hold for 30 seconds on each side",
+    "instructions": "Start in a lunge position with one knee on the ground. Push your hips forward until you feel a stretch in the front of your hip.",
+    "advanced": "Raise your arm on the same side as the back leg and reach over to the opposite side to deepen the stretch."
+  },
+  {
+    "name": "Glute",
+    "repetitions": "Hold for 30 seconds on each side",
+    "instructions": "Lie on your back with your knees bent. Cross one ankle over the opposite knee and pull the uncrossed leg towards your chest.",
+    "advanced": "Apply gentle pressure to the bent knee to deepen the stretch."
+  },
+  {
+    "name": "Chest",
+    "repetitions": "Hold for 30 seconds",
+    "instructions": "Stand in a doorway with your arms at a 90-degree angle against the frame. Step forward with one foot, leaning into the stretch to open up the chest.",
+    "advanced": "Move your arms higher or lower on the doorframe to stretch different parts of the chest."
+  },
+  {
+    "name": "Shoulder",
+    "repetitions": "Hold for 20 seconds on each side",
+    "instructions": "Bring one arm across your chest, holding it with the opposite hand to stretch the shoulder.",
+    "advanced": "Pull your arm closer to your chest by gently increasing pressure with the opposite hand."
+  },
+  {
+    "name": "Triceps",
+    "repetitions": "Hold for 20 seconds on each side",
+    "instructions": "Raise one arm overhead, then bend the elbow so your hand reaches down your back. Use the opposite hand to gently push the elbow back.",
+    "advanced": "Pull the elbow further down to deepen the stretch."
+  },
+  {
+    "name": "Neck",
+    "repetitions": "Hold for 15 seconds on each side",
+    "instructions": "Tilt your head to one side, bringing your ear towards your shoulder.",
+    "advanced": "Place one hand on your head to gently increase the stretch."
+  },
+  {
+    "name": "Side Bend",
+    "repetitions": "Hold for 20 seconds on each side",
+    "instructions": "Stand with feet shoulder-width apart, reach one arm overhead, and bend to the opposite side.",
+    "advanced": "Hold a weight or resistance band in the hand that is reaching overhead to increase the intensity."
+  },
+  {
+    "name": "Lower Back",
+    "repetitions": "Hold for 30 seconds",
+    "instructions": "Lie on your back, bring your knees to your chest, and gently rock side to side.",
+    "advanced": "Extend one leg while keeping the other knee towards your chest to deepen the stretch."
+  },
+  {
+    "name": "Hip Abductor",
+    "repetitions": "Hold for 30 seconds on each side",
+    "instructions": "Sit on the ground with your legs extended. Cross one leg over the other and twist your torso towards the bent knee.",
+    "advanced": "Use your opposite elbow to push against the outside of the bent knee for a deeper stretch."
+  },
+  {
+    "name": "Forearm",
+    "repetitions": "Hold for 20 seconds on each side",
+    "instructions": "Extend one arm in front of you with the palm facing down. Use your other hand to gently pull back on the fingers, stretching the forearm.",
+    "advanced": "Rotate the wrist to face the palm up and repeat the stretch."
+  },
+  {
+    "name": "Wrist Flexor",
+    "repetitions": "Hold for 20 seconds on each side",
+    "instructions": "Extend your arm in front of you with the palm facing up. Use your other hand to gently pull back on the fingers, stretching the wrist flexors.",
+    "advanced": "Increase the stretch by pulling the hand closer towards the forearm."
+  },
+  {
+    "name": "IT Band",
+    "repetitions": "Hold for 30 seconds on each side",
+    "instructions": "Stand with your legs crossed and lean to the side, pushing your hips outwards until you feel a stretch along the outer thigh.",
+    "advanced": "Place the foot of the back leg further behind the front leg to deepen the stretch."
+  },
+  {
+    "name": "Inner Thigh",
+    "repetitions": "Hold for 30 seconds",
+    "instructions": "Sit on the floor with your feet together and your knees bent outward. Hold your feet with your hands and gently press your knees towards the ground.",
+    "advanced": "Lean forward slightly while keeping your back straight to intensify the stretch."
+  },
+  {
+    "name": "Abdominal",
+    "repetitions": "Hold for 20 seconds",
+    "instructions": "Lie on your stomach and prop yourself up on your forearms, gently arching your back to stretch the abdominal muscles.",
+    "advanced": "Extend your arms fully to lift your torso higher off the ground."
+  },
+  {
+    "name": "Groin",
+    "repetitions": "Hold for 30 seconds on each side",
+    "instructions": "Start in a wide-legged stance and shift your weight to one side, bending the knee and keeping the other leg straight.",
+    "advanced": "Place your hands on the ground for added stability and deeper stretch."
+  },
+  {
+    "name": "Spinal Twist",
+    "repetitions": "Hold for 20 seconds on each side",
+    "instructions": "Sit on the floor with one leg extended and the other leg crossed over. Twist your torso towards the bent knee while keeping your back straight.",
+    "advanced": "Deepen the twist by using your elbow to push against the outside of the bent knee."
+  },
+  {
+    "name": "Side Lunge",
+    "repetitions": "Hold for 30 seconds on each side",
+    "instructions": "Stand with your feet wide apart, and lunge to one side by bending the knee while keeping the other leg straight.",
+    "advanced": "Lower your hips further down towards the ground for a deeper stretch."
+  }
+]
