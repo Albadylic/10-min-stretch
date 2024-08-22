@@ -8,15 +8,18 @@ const Card = () => {
     return stretches[index];
   };
 
-  console.log(randomStretch());
-
   const stretch = randomStretch();
 
   return (
     <div className="Stretch">
       <h2>{stretch.name}</h2>
+      <h3>Interval</h3>
       <p>{stretch.repetitions}</p>
+      <br />
+      <h3>Instructions</h3>
       <p>{stretch.instructions}</p>
+      <br />
+      <h3>Advanced option</h3>
       <p>{stretch.advanced}</p>
     </div>
   );
