@@ -10,8 +10,14 @@ const Card = () => {
 
   const stretch = randomStretch();
 
+  const colourSet = () => {
+    return Math.floor(Math.random() * 10) + 1;
+  };
+
+  const randomColourSet = colourSet();
+
   return (
-    <div className="Stretch">
+    <div className={`Stretch colour-set-${randomColourSet}`}>
       <h2>{stretch.name}</h2>
       <h3>Interval</h3>
       <p>{stretch.repetitions}</p>

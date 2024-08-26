@@ -1,3 +1,35 @@
+:root {
+  --primary-color-1: #ffb3ba; /* Pastel Pink */
+  --secondary-color-1: #ffdfba; /* Pastel Peach */
+
+  --primary-color-2: #b5ead7; /* Pastel Mint */
+  --secondary-color-2: #c7ceea; /* Pastel Lavender */
+
+  --primary-color-3: #ffdac1; /* Pastel Apricot */
+  --secondary-color-3: #e2f0cb; /* Pastel Lime */
+
+  --primary-color-4: #c1c8e4; /* Pastel Blue */
+  --secondary-color-4: #f4bbd0; /* Pastel Blush */
+
+  --primary-color-5: #ffe4e1; /* Pastel Coral */
+  --secondary-color-5: #d4b4e1; /* Pastel Purple */
+
+  --primary-color-6: #fbe4c9; /* Pastel Yellow */
+  --secondary-color-6: #bfd8d2; /* Pastel Teal */
+
+  --primary-color-7: #f4c7ab; /* Pastel Tangerine */
+  --secondary-color-7: #d3e5ef; /* Pastel Sky Blue */
+
+  --primary-color-8: #d1e8e2; /* Pastel Aqua */
+  --secondary-color-8: #e3d5ca; /* Pastel Beige */
+
+  --primary-color-9: #ecd5e3; /* Pastel Mauve */
+  --secondary-color-9: #ffdbe6; /* Pastel Rose */
+
+  --primary-color-10: #c7d3a9; /* Pastel Olive */
+  --secondary-color-10: #efd8b1; /* Pastel Gold */
+}
+
 .App {
   display: flex;
   justify-content: center;
@@ -11,4 +43,54 @@
   border-radius: 5%;
   padding: 2em;
   margin: 2em;
+}
+
+.colour-set-1 {
+  background: var(--primary-color-1);
+  border-color: var(--secondary-color-1);
+}
+
+.colour-set-2 {
+  background: var(--primary-color-2);
+  border-color: var(--secondary-color-2);
+}
+
+.colour-set-3 {
+  background: var(--primary-color-3);
+  border-color: var(--secondary-color-3);
+}
+
+.colour-set-4 {
+  background: var(--primary-color-4);
+  border-color: var(--secondary-color-4);
+}
+
+.colour-set-5 {
+  background: var(--primary-color-5);
+  border-color: var(--secondary-color-5);
+}
+
+.colour-set-6 {
+  background: var(--primary-color-6);
+  border-color: var(--secondary-color-6);
+}
+
+.colour-set-7 {
+  background: var(--primary-color-7);
+  border-color: var(--secondary-color-7);
+}
+
+.colour-set-8 {
+  background: var(--primary-color-8);
+  border-color: var(--secondary-color-8);
+}
+
+.colour-set-9 {
+  background: var(--primary-color-9);
+  border-color: var(--secondary-color-9);
+}
+
+.colour-set-10 {
+  background: var(--primary-color-10);
+  border-color: var(--secondary-color-10);
 }
